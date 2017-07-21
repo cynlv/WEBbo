@@ -1,6 +1,7 @@
 <?php
 session_start();
 //我要改东西！！
+//iiii
 error_reporting(E_ALL^E_NOTICE);
 date_default_timezone_set("PRC");
 try{
