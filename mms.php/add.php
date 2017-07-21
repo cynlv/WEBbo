@@ -1,5 +1,4 @@
 <?php
-//2234234234234cvvb 
 include 'common.php';
 // var_dump($_POST);
 if($_POST['send']){
